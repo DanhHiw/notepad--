@@ -1,0 +1,10 @@
+please install tkinter
+
+how to install?
+    press windows + R
+    type cmd and press enter
+    type : "pip install tk"
+    press enter and wait
+make sure you are download and install python
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
